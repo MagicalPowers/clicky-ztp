@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "https://images.dog.ceo/breeds/mastiff-tibetan/n02108551_3578.jpg",
+    "clicked": false 
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_6726.jpg",
+    "clicked": false 
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "https://images.dog.ceo/breeds/cairn/n02096177_2935.jpg",
+    "clicked": false 
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "https://images.dog.ceo/breeds/entlebucher/n02108000_3306.jpg",
+    "clicked": false 
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "image": "https://images.dog.ceo/breeds/germanshepherd/n02106662_620.jpg",
+    "clicked": false 
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "image": "https://images.dog.ceo/breeds/greyhound-italian/n02091032_7499.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://images.dog.ceo/breeds/chow/n02112137_13330.jpg",
+    "clicked": false 
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "image": "https://images.dog.ceo/breeds/bluetick/n02088632_4332.jpg",
+    "clicked": false 
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "image": "https://images.dog.ceo/breeds/schnauzer-giant/n02097130_6156.jpg",
+    "clicked": false 
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "image": "https://images.dog.ceo/breeds/terrier-norwich/n02094258_778.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "image": "https://images.dog.ceo/breeds/terrier-irish/n02093991_2969.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "image": "https://images.dog.ceo/breeds/hound-afghan/n02088094_1410.jpg",
+    "clicked": false
+  }
+]
